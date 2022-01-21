@@ -1,0 +1,22 @@
+* {
+    font-family: Monaco, monospace;
+}
+
+a {
+    font-weight: bold;
+    color: black;
+    text-align: center;
+}
+
+h1 {
+    text-align: center;
+}
+
+.icon{
+    height: 15%;
+    width: 15%;
+}
+
+body {
+    text-align: center;
+}
